@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import axios from 'axios';
-import { Input, List, Pagination, Avatar} from 'antd';
+import { Input, List, Pagination} from 'antd';
 //import 'antd/dist/antd.css';
 
 const Search = Input.Search;
